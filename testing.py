@@ -1,4 +1,4 @@
-# make tests for verify if the api key is working or not
+# make tests to verify if the api key is working or not
 
 # Status code: 200 → success
 # Status code: 404 → name or platform not found or incorrect
