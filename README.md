@@ -19,10 +19,13 @@ The script has the objective of retrieving your current Rocket League match data
 2. Run the requirements file
 
 **Windows/MacOS:**
+
 ```pip3 install -r requirements.txt```
 
 **Linux:**
+
 ```python3 -m venv MyRLCounter```
+
 ```./MyRLCounter/bin/pip3 install -r requirements.txt```
 
 And done, the installation is now complete
@@ -34,10 +37,12 @@ And done, the installation is now complete
 4. Run your script
 
 **Windows/MacOS:**
+
 ```python3 <yourFileName>.py```
 
 **Linux:**
-```./MyRLCounter/bin/python3 <yourFileName>.py``
+
+```./MyRLCounter/bin/python3 <yourFileName>.py```
 
 If you don't have yet a script, run the ``cmdExample.py`` that comes with the MyRLCounter ZIP file
 
